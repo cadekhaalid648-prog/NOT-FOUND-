@@ -1,2 +1,3 @@
 # NOT-FOUND-
 COINS
+1000
